@@ -176,6 +176,7 @@ A Docker registry is a service that stores ans distributes Docker images. it act
 
      - Benefits : Ensures API(s) run consistantly acrosss environmwnts, simplifies scaling and improves deployment speed and reliability
      
+     
 
 
 
